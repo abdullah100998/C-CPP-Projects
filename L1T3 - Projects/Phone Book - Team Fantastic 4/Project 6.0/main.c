@@ -1,16 +1,12 @@
 /**.................................Bismillahir-Rahamanirahim..................................**/
 
 /*
-Teacher initial : ATM
-*/
-
-/**
 *(c) 2020 Team : Fantastic 4
 *[1]Md.Mahfuzur Rahman      || Id:193-15-13416 ||
 *[2]Md.Abdullah Ibna Harun  || Id:193-15-13426 ||
 *[3]Md.Mahade Hassan Forhad || Id:193-15-13355 ||
 *[4]Md.Abidur Rahman Khan   || Id:193-15-13374 ||
-**/
+*/
 
 /**................ Headers ................**/
 #include <stdio.h>
@@ -867,7 +863,7 @@ void aboutinfo()
     system("color 6");
     printf("\t\t**                                                           **\n");
     system("color 4");
-    printf("\t\t**     (C)2020 DS Project  Group:1  All Rights Reserved     **\n");
+    printf("\t\t**     (C)2020 DS Project  Group:1  All Rights Reserved      **\n");
     printf("\t\t**                                                           **\n");
     printf("\t\t**                                                           **\n");
     system("color A");
